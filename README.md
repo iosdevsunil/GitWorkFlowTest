@@ -1,2 +1,2 @@
 # GitWorkFlowTest
-Some experiments on git work flow
+Some experiments on git work flows
